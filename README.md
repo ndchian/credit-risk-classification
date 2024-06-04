@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-In this challenge, the logistric regression model was used to predict loan risk with healthy loan (0) or high-risk loan (1) labels. A dataset of historical lending activity from a peer-to-peer lending services company was used to build this model that identifies the creditworthiness of borrowers.
+In this challenge, the logistic regression model was used to predict loan risk with healthy loan (0) or high-risk loan (1) labels. A dataset of historical lending activity from a peer-to-peer lending services company was used to build this model that identifies the creditworthiness of borrowers.
 
 The steps used to complete this review are as follows: 
 *  Read in the dataset
